@@ -1,3 +1,3 @@
-# Scripting-languages
+# bashScripts
 
 tictactoe.sh --> Player vs Player Game
